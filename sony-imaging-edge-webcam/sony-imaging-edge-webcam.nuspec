@@ -9,14 +9,14 @@
     <authors>Sony Corporation</authors>
     <owners>stumbaumr</owners>
     <summary>An application that lets you use your camera as a high-quality webcam.</summary>
-    <description>Sony Imaging Edge Webcam</description>
+    <description>An application that lets you use your camera as a high-quality webcam.</description>
     <projectUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/download/</projectUrl>
     <tags>webcam obs camera sony webcam-software video</tags>
     <copyright>Sony Corporation</copyright>
     <licenseUrl>https://www.sony.net/copyright/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://support.d-imaging.sony.co.jp/app/webcam/img/ico_webcam.png</iconUrl>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>https://github.com/stumbaumr/nugetpackages/commits/main/sony-imaging-edge-webcam</releaseNotes>
     <dependencies>
       <dependency id="dependency-windows10" version="10.0" />
     </dependencies>
