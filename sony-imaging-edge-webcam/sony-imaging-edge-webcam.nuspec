@@ -17,6 +17,9 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://support.d-imaging.sony.co.jp/app/webcam/img/ico_webcam.png</iconUrl>
     <releaseNotes></releaseNotes>
+    <dependencies>
+      <dependency id="dependency-windows10" version="10.0" />
+    </dependencies>
     <packageSourceUrl>https://github.com/stumbaumr/nugetpackages/</packageSourceUrl>
     <docsUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/</docsUrl>
   </metadata>
