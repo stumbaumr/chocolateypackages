@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>sony-imaging-edge-webcam</id>
+    <title>Sony Imaging Edge Webcam</title>
+    <version>1.1.01.08108</version>
+    <authors>Sony Corporation</authors>
+    <owners>rstumbaum</owners>
+    <summary>Mit der Imaging Edge Webcam-Software können Sie eine Kamera von Sony als hochwertigeWebcam verwenden.</summary>
+    <description>Sony Imaging Edge Webcam</description>
+    <projectUrl>https://support.d-imaging.sony.co.jp/app/webcam/de/download/</projectUrl>
+    <tags>sony-imaging-edge-webcam admin</tags>
+    <copyright>Sony Corporation</copyright>
+    <licenseUrl>https://support.d-imaging.sony.co.jp/app/webcam/de/download/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!-- Important note about https://cdn.rawgit.com: Files are cached permanently after the first request. Use commit URLs when updating the icon. -->
+    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/sony-imaging-edge-webcam.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
