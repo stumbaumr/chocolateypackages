@@ -15,11 +15,7 @@
     <copyright>Sony Corporation</copyright>
     <licenseUrl>https://www.sony.net/copyright/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!-- Important note about https://cdn.rawgit.com: Files are cached permanently after the first request. Use commit URLs when updating the icon. -->
-    <iconUrl>https://support.d-imaging.sony.co.jp/app/webcam/img/ico_webcam.png</iconUrl>-->
-    <!--<dependencies>
-      <dependency id="" version="" />
-    </dependencies>-->
+    <iconUrl>https://support.d-imaging.sony.co.jp/app/webcam/img/ico_webcam.png</iconUrl>
     <releaseNotes></releaseNotes>
     <packageSourceUrl>https://github.com/stumbaumr/nugetpackages/</packageSourceUrl>
     <docsUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/</docsUrl>
