@@ -21,7 +21,7 @@
       <dependency id="" version="" />
     </dependencies>-->
     <releaseNotes></releaseNotes>
-    <packageSourceUrl>https://github.com/stumbaumr/chocolateypackages/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/stumbaumr/nugetpackages/</packageSourceUrl>
     <docsUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/</docsUrl>
   </metadata>
   <files>
