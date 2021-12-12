@@ -8,19 +8,21 @@
     <version>1.1.01.08108</version>
     <authors>Sony Corporation</authors>
     <owners>stumbaumr</owners>
-    <summary>Mit der Imaging Edge Webcam-Software können Sie eine Kamera von Sony als hochwertigeWebcam verwenden.</summary>
+    <summary>An application that lets you use your camera as a high-quality webcam.</summary>
     <description>Sony Imaging Edge Webcam</description>
-    <projectUrl>https://support.d-imaging.sony.co.jp/app/webcam/de/download/</projectUrl>
+    <projectUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/download/</projectUrl>
     <tags>sony-imaging-edge-webcam admin</tags>
     <copyright>Sony Corporation</copyright>
-    <licenseUrl>https://support.d-imaging.sony.co.jp/app/webcam/de/download/</licenseUrl>
+    <licenseUrl>https://www.sony.net/copyright/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!-- Important note about https://cdn.rawgit.com: Files are cached permanently after the first request. Use commit URLs when updating the icon. -->
-    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/sony-imaging-edge-webcam.png</iconUrl>-->
+    <iconUrl>https://support.d-imaging.sony.co.jp/app/webcam/img/ico_webcam.png</iconUrl>-->
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
     <releaseNotes></releaseNotes>
+    <packageSourceUrl>https://github.com/stumbaumr/chocolateypackages/</packageSourceUrl>
+    <docsUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/</docsUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
