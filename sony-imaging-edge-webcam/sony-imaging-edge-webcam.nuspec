@@ -19,9 +19,9 @@
     <releaseNotes>https://github.com/stumbaumr/nugetpackages/commits/main/sony-imaging-edge-webcam</releaseNotes>
     <dependencies>
       <dependency id="dependency-windows10" version="10.0" />
-    </dependencies>
+    <!-- </dependencies>
     <packageSourceUrl>https://github.com/stumbaumr/nugetpackages/</packageSourceUrl>
-    <docsUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/</docsUrl>
+    <docsUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/</docsUrl> -->
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
